@@ -6,5 +6,5 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario B del curso "Fu
 # INTEGRANTES DEL GRUPO
 
 # DESCRIPCIÓN DEL GRUPO
-1) AAA
+1) 
 # GRACIAS POR VISITAR NUESTRO REPOSITORIO
