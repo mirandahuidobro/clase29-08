@@ -6,7 +6,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
 # INTEGRANTES DEL GRUPO
 ![Image](https://github.com/user-attachments/assets/b8b0350b-ea29-4e34-9f50-acd8a526d466)
 # DESCRIPCIÓN DE MIEMBROS DEL GRUPO
-**1) Miranda Naomi Huidobro Kokubun**
+**1. Miranda Naomi Huidobro Kokubun**
    
    **EDAD:** 17 años
    
@@ -15,7 +15,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
    **ROL:** 
      - qqq
    
-**2) Flor Daniela Periche Eche**
+**2. Flor Daniela Periche Eche**
    
    ![Image](https://github.com/user-attachments/assets/76faa0dc-a40c-4b87-a5cd-504bdfc3ecab)
 
@@ -31,7 +31,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
    **ROL:** 
      - qqq
    
-**3) Asiry Fiorella Riveros Huancahuari**
+**3. Asiry Fiorella Riveros Huancahuari**
       
    **EDAD:** 17 años
    
@@ -40,7 +40,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
    **ROL:** 
      - qqq
    
-**4) Jhair Radmel Salazar Requejo**
+**4. Jhair Radmel Salazar Requejo**
       
    **EDAD:** 17 años
    
@@ -49,7 +49,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
    **ROL:** 
      - qqq
    
-**5) Camila Miranda Lamas Carrubba**
+**5. Camila Miranda Lamas Carrubba**
 
 ![Image](https://github.com/user-attachments/assets/47cdf310-7b3c-4bf6-babd-323aa74981a7)
        
