@@ -1,7 +1,7 @@
 # GRUPO 1
                 
 # DESCRIPCIÓN DEL GRUPO
-![]https://drive.google.com/file/d/12pWH134Y0wbc9pSYkHlgOHmV5AAyqf36/view?usp=drive_link
+![Image](https://github.com/user-attachments/assets/b8b0350b-ea29-4e34-9f50-acd8a526d466)
 Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario B del curso "Fundamentos de Biodiseño"
 
 # INTEGRANTES DEL GRUPO
