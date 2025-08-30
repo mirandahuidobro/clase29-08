@@ -7,6 +7,8 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
 ![Image](https://github.com/user-attachments/assets/b8b0350b-ea29-4e34-9f50-acd8a526d466)
 # DESCRIPCIÓN DE MIEMBROS DEL GRUPO
 **1. Miranda Naomi Huidobro Kokubun**
+
+![Image](https://github.com/user-attachments/assets/87fa7efd-50ae-400a-8911-6083d9f001d9)
    
    **EDAD:** 17 años
    
