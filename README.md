@@ -13,11 +13,12 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
    **EDAD:** 17 años
    
    **PASATIEMPO:**
+   - Dibujar y pintar
+   - Jugar videojuegos
    - Hacer postres
-   - Escuchar música
-   - Pintar y me intera el área de tejidos y señales médicas
+
    
-   **¿POR QUÉ INGENIERÍA BIOMÉDICA?** Porque siempre me ha gustado la matemática y la ciencia, y me gustaría 
+   **¿POR QUÉ INGENIERÍA BIOMÉDICA?** Porque siempre me ha gustado las matemáticas y la ciencia, y me gustaría ayudar a las personas con la investigación e innovación.
    
 **2. Flor Daniela Periche Eche**
    
