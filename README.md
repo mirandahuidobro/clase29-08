@@ -11,16 +11,16 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
    **EDAD:** 17 años
    
    **PASATIEMPO:**
+   - Hacer postres
+   - Escuchar música
+   - Pintar y me intera el área de tejidos y señales médicas
    
-   **ROL:** 
-     - qqq
+   **¿POR QUÉ INGENIERÍA BIOMÉDICA?** Porque siempre me ha gustado la matemática y la ciencia, y me gustaría 
    
 **2. Flor Daniela Periche Eche**
    
    ![Image](https://github.com/user-attachments/assets/76faa0dc-a40c-4b87-a5cd-504bdfc3ecab)
 
-   **SIGNO:** Libra
-   
    **EDAD:** 18 años
    
    **PASATIEMPO:** 
@@ -28,26 +28,29 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
    - Escuchar música
    - Pintar y me intera el área de tejidos y señales médicas
    
-   **ROL:** 
-     - qqq
+   **¿POR QUÉ INGENIERÍA BIOMÉDICA?** Porque investigando sobre las carreras me pareció muy interesante como la ingeniería la aplicaban en la medicina.
    
 **3. Asiry Fiorella Riveros Huancahuari**
+
+![Image](https://github.com/user-attachments/assets/c22341ba-5e64-4616-b177-fa1504b9dc54)
       
    **EDAD:** 17 años
    
-   **PASATIEMPO:**
+ **PASATIEMPO:** 
+   - Montar bicicleta
+   - Ver series y documentales
+   - Jugar videojuegos
    
-   **ROL:** 
-     - qqq
+   **¿POR QUÉ INGENIERÍA BIOMÉDICA?** Porque vi un documental sobre la ingeniería biomédica y me atrajo.
    
 **4. Jhair Radmel Salazar Requejo**
       
-   **EDAD:** 17 años
+   **EDAD:**  años
    
    **PASATIEMPO:**
+   - M
    
-   **ROL:** 
-     - qqq
+   **¿POR QUÉ INGENIERÍA BIOMÉDICA?** Porque 
    
 **5. Camila Miranda Lamas Carrubba**
 
@@ -56,9 +59,12 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB5 del curso 
    **EDAD:** 18 años
    
    **PASATIEMPO:**
+  - Leer fantasía y romance
+  - Ver series
+  - Tejer
+  - Bailar
    
-   **ROL:** 
-     - qqq
+   **¿POR QUÉ INGENIERÍA BIOMÉDICA?** Porque desde niña me ha gustado la ciencia y me gustaría ejercer en el rubro de creación de biomateriales.
    
 # GRACIAS POR VISITAR NUESTRO REPOSITORIO
 Esperamos que la visita por nuestro repositorio haya sido inspiradora para todo aquel que lo lea y pueda inspirar a más personas a colaborar con el futuro de la tecnología médica en el sistema de salud de nuestro país y así brindar un servicio de atención médica de calidad a lo largo del Perú.
