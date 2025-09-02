@@ -29,7 +29,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del grupo PIB5 del curso "P
    **PASATIEMPO:** 
    - Hacer postres
    - Escuchar música
-   - Pintar y me intera el área de tejidos y señales médicas
+   - Pintar
    
    **¿POR QUÉ INGENIERÍA BIOMÉDICA?** Porque investigando sobre las carreras me pareció muy interesante como la ingeniería la aplicaban en la medicina.
    
@@ -47,7 +47,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del grupo PIB5 del curso "P
    **¿POR QUÉ INGENIERÍA BIOMÉDICA?** Porque vi un documental sobre la ingeniería biomédica y me atrajo.
    
 **4. Jhair Radmel Salazar Requejo**
-      
+      ![Image](https://github.com/user-attachments/assets/a099af1d-af77-4df2-be9a-c193bf0d29c1)
    **EDAD:** 17 años
    
    **PASATIEMPO:**
