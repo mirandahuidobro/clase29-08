@@ -1,4 +1,4 @@
-# GRUPO 1
+# GRUPO 1 - MILITECH
 ![Image](https://github.com/user-attachments/assets/46efb09b-4ef3-4c5e-ba11-3eab7f300a4d)                
 # 🎓DESCRIPCIÓN DEL GRUPO
 Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del grupo PIB5 del curso "Procesos de Innovación y Biodiseño"
